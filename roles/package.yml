@@ -1,0 +1,9 @@
+- hosts: all
+  name : Install firefox
+
+  tasks:
+    - name: Upgrade installed packages
+      win_chocolatey:
+        name: firefox
+        state: latest
+
