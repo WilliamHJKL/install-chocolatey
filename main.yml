@@ -1,2 +1,2 @@
 ---
-- include roles/role-installchocolatey/tasks/main.yml
+- include roles/tasks/main.yml
