@@ -1,0 +1,3 @@
+---
+chocolatey_installer: https://chocolatey.org/install.ps1
+chocolatey_path: c:/ProgramData/chocolatey
